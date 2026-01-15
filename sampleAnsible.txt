@@ -1,1 +1,1 @@
-sample ansible  text 2
+sample ansible  text 2 udated same line
